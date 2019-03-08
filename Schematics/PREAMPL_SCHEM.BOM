@@ -1,0 +1,33 @@
+  Revised: Sunday, November 04, 2018
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       November 6,2018      14:07:10	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	2.2u
+2	4	C2,C3,C4,C5	4.7u
+3	2	C6,C7	10u
+4	1	D1	LED
+5	1	J1	POWER
+6	1	J2	INTRARE
+7	1	J3	IESIRE
+8	1	P1	4.7k
+9	1	P2	2.2k
+10	2	Q1,Q2	QBC846B
+11	1	R1	1Meg
+12	3	R2,R3,R9	100k
+13	2	R4,R16	1k
+14	2	R5,R6	510
+15	3	R7,R8,R10	180k
+16	1	R11	1
+17	1	R12	15k
+18	2	R13,R14	390k
+19	1	R15	22k
