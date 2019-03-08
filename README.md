@@ -8,3 +8,9 @@ The Audio Pre-amplifier consists of an input adapting network with the main sour
 
 Input data sets for this project:
 <img src="DataSet.jpg" width="500">
+
+Electronic scheme:
+<img src="Schematics/Schema.jpg" width="500">
+
+PCB Design (layout):
+<img src="Layout/Layout.jpg" width="500">
